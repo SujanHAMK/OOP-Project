@@ -1,7 +1,7 @@
 package myproject;
 
 import java.util.Scanner;
-//1st change
+//2nd change
 
 public class newproject {
 
